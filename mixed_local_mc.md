@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[<Back](./index.html)
+
 ## Monte Carlo simulation with mixed particles, hosted on a local Jupyter Notebook
 
 <video src="./assets/vids/mixed_local_mc.mov" width="640" height="480" loop></video>
