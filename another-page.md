@@ -4,4 +4,4 @@ layout: default
 
 ## Welcome to another page
 
-<video src="./assets/vids/mixed_local_mc.mov" width="320" height="240" controls></video>
+<video src="./assets/vids/mixed_local_mc.mov" width="640" height="480" controls loop></video>
