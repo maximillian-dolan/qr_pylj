@@ -4,7 +4,7 @@ layout: default
 
 [<Back](./index.html)
 
-## Molecular Dynamics simulation with mixed particles, hosted on a local Jupyter Notebook
+## Molecular Dynamics simulation with mixed particles, hosted on a local Jupyter Notebook, using a Lennard-Jones forcefield
 
 <video src="./assets/vids/mixed_local_md.mov" width="320" height="240" controls loop autoplay></video>
 
