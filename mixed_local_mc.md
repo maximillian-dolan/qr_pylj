@@ -4,7 +4,7 @@ layout: default
 
 [<Back](./index.html)
 
-## Monte Carlo simulation with mixed particles, hosted on a local Jupyter Notebook
+## Monte Carlo simulation with mixed particles, hosted on a local Jupyter Notebook, using a Lennard-Jones forcefield
 
 <video src="./assets/vids/mixed_local_mc.mov" width="320" height="240" controls loop autoplay></video>
 
